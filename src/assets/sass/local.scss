@@ -429,7 +429,7 @@
 
         .cs-title {
             margin-bottom: calc(40 / 16 * 1rem);
-            max-width: calc(621 / 16 * 1rem);
+            max-width: 100%;
             text-align: center;
         }
 
@@ -554,8 +554,9 @@
         }
 
         .cs-title {
-            max-width: calc(700 / 16 * 1rem);
+            max-width: 100%;
             text-align: center;
+            margin-bottom: 70px;
         }
 
         .cs-text {
@@ -645,6 +646,7 @@
             justify-content: space-between;
             align-items: center;
             gap: calc(16 / 16 * 1rem);
+        
         }
 
         .cs-item {

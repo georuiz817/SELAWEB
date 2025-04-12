@@ -354,7 +354,7 @@
   }
   #gallery .cs-title {
     margin-bottom: 2.5rem;
-    max-width: 38.8125rem;
+    max-width: 100%;
     text-align: center;
   }
   #gallery .cs-image-group {
@@ -451,8 +451,9 @@
     text-align: center;
   }
   #reviews .cs-title {
-    max-width: 43.75rem;
+    max-width: 100%;
     text-align: center;
+    margin-bottom: 70px;
   }
   #reviews .cs-text {
     /* 88px - 104px */
