@@ -1247,20 +1247,7 @@
             display: none;
         }
         &:after {
-            z-index: -3;
-            position: absolute;
-            bottom: 0;
-            left: 50%;
-            content: "";
-            opacity: 1;
-            transform: translateX(-50%);
-            display: block;
-            background: url("/assets/svgs/cta-squares.svg");
-            background-position: center;
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: calc(1108 / 16 * 1rem);
-            width: calc(2000 / 16 * 1rem);
+ 
         }
     }
 }

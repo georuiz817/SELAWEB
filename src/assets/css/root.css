@@ -1015,22 +1015,6 @@
   #cta:before {
     display: none;
   }
-  #cta:after {
-    z-index: -3;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    content: "";
-    opacity: 1;
-    transform: translateX(-50%);
-    display: block;
-    background: url("/assets/svgs/cta-squares.svg");
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 69.25rem;
-    width: 125rem;
-  }
 }
 /* Dark Mode */
 @media only screen and (min-width: 0rem) {
