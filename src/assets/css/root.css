@@ -1211,6 +1211,7 @@
     margin: 0;
     max-width: 48.0625rem;
     width: 96%;
+    justify-content: space-evenly;
   }
   #footer .right-section .lists ul li a {
     position: relative;
